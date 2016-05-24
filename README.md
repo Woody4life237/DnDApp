@@ -3,7 +3,7 @@ Application for Dungeons and Dragons
 
 ToDo:
 
-<s>Have current slots auto update to total, when total is entered</s>
+<s>Have current slots auto update to total, when total is entered</s>     
 Add HP Tracker    
 Ability to add additional custom trackers    
 Ability to hide all spell slots with '0' but also be able to readd them     
