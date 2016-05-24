@@ -17,3 +17,4 @@ Adding 'character creation' where you pull level and class to get spell slots au
 
  - Only avaliable with 'free to play' classes? more CR issues??        
 
+fixed rotation OR fix the landscape version
